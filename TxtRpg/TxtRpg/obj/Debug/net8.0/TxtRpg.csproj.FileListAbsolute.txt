@@ -1,0 +1,14 @@
+E:\aaaaa\unity learn\VS\TxtRpg\TxtRpg\bin\Debug\net8.0\TxtRpg.exe
+E:\aaaaa\unity learn\VS\TxtRpg\TxtRpg\bin\Debug\net8.0\TxtRpg.deps.json
+E:\aaaaa\unity learn\VS\TxtRpg\TxtRpg\bin\Debug\net8.0\TxtRpg.runtimeconfig.json
+E:\aaaaa\unity learn\VS\TxtRpg\TxtRpg\bin\Debug\net8.0\TxtRpg.dll
+E:\aaaaa\unity learn\VS\TxtRpg\TxtRpg\bin\Debug\net8.0\TxtRpg.pdb
+E:\aaaaa\unity learn\VS\TxtRpg\TxtRpg\obj\Debug\net8.0\TxtRpg.GeneratedMSBuildEditorConfig.editorconfig
+E:\aaaaa\unity learn\VS\TxtRpg\TxtRpg\obj\Debug\net8.0\TxtRpg.AssemblyInfoInputs.cache
+E:\aaaaa\unity learn\VS\TxtRpg\TxtRpg\obj\Debug\net8.0\TxtRpg.AssemblyInfo.cs
+E:\aaaaa\unity learn\VS\TxtRpg\TxtRpg\obj\Debug\net8.0\TxtRpg.csproj.CoreCompileInputs.cache
+E:\aaaaa\unity learn\VS\TxtRpg\TxtRpg\obj\Debug\net8.0\TxtRpg.dll
+E:\aaaaa\unity learn\VS\TxtRpg\TxtRpg\obj\Debug\net8.0\refint\TxtRpg.dll
+E:\aaaaa\unity learn\VS\TxtRpg\TxtRpg\obj\Debug\net8.0\TxtRpg.pdb
+E:\aaaaa\unity learn\VS\TxtRpg\TxtRpg\obj\Debug\net8.0\TxtRpg.genruntimeconfig.cache
+E:\aaaaa\unity learn\VS\TxtRpg\TxtRpg\obj\Debug\net8.0\ref\TxtRpg.dll
